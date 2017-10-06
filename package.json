@@ -1,0 +1,24 @@
+{
+  "name": "netguru-recruitment-task",
+  "version": "1.0.0",
+  "description": "Tu znajduje się zadanie rekrutacyjne do firmy nerguru.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damianrogulski-CL/netguru-recruitment-task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damianrogulski-CL/netguru-recruitment-task/issues"
+  },
+  "homepage": "https://github.com/damianrogulski-CL/netguru-recruitment-task#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-sass": "^3.1.0"
+  }
+}
